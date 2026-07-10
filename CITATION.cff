@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: Production-Grade Minimal C Compiler
+message: If you use this software, please cite it using the metadata in this file.
+type: software
+authors:
+  - family-names: Ayrıbaş
+    given-names: Batuhan
+    website: https://batuhanayribas.com/
+repository-code: https://github.com/rootcastleco/production-grade-minimal-C-compiler
+url: https://www.rootcastle.com/
+abstract: A compact, testable compiler for a deliberately restricted subset of C that emits NASM-compatible x86-64 Linux assembly.
+keywords:
+  - c-compiler
+  - compiler-design
+  - python
+  - x86-64
+  - nasm
+  - assembly
+  - lexer
+  - parser
+  - abstract-syntax-tree
+  - recursive-descent-parser
+  - systems-programming
+  - rootcastle
+license: MIT
